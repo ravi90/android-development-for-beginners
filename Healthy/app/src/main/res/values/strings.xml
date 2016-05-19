@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Healthy</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="splash_title">Healthy</string>
+    <string name="splash_wording">Isn\'t a goal. It\'a way of living</string>
+    <string name="home_exercise">Exercise</string>
+    <string name="home_healthy_food">Healthy Food</string>
+    <string name="home_breakfast">Breakfast</string>
+    <string name="home_sleep">Sleep</string>
+    <string name="home_stress">Stress</string>
+    <string name="home_feedback">Feedback</string>
+    <string name="exercise_title">1. Make exercise part of your everyday life</string>
+    <string name="exercise_body">Even if you just get out for a walk a few times a week, exercise is important for being fit and healthy. Cardiovascular exercise helps to strengthen the heart and lungs, strength training helps to strengthen the muscles and stretching helps to reduce the risk of injury by increasing flexibility. Exercise also improves circulation and body awareness, and regular exercise can help combat depression.</string>
+    <string name="healthy_food_title">2. Eat healthy food</string>
+    <string name="healthy_food_body">Get as many fresh fruits, vegetables,and whole grains into your diet as possible and make them the main part of your overall diet. Include lean sources of protein such as poultry, fish, tofu and beans. Eat balanced meals and do not overeat. Stop eating before you become completely full and give yourself a chance to digest your food. Snack on whole foods such as fruit, vegetables and nuts. Avoid highly processed foods that contain artificial sweeteners or colors, hidden sugars or excessive fat.</string>
+    <string name="breakfast_title">3. Do not skip breakfast</string>
+    <string name="breakfast_body">A healthy breakfast starts your day off right. It sets you up so that you have energy and fuel for optimal mental and physical performance. Eating breakfast helps to maintain stable blood sugar levels and a healthy weight because you are less likely to overindulge later in the day.</string>
+    <string name="sleep_title">4. Get enough sleep</string>
+    <string name="sleep_body">Getting enough sleep is necessary to stay fit and healthy, many of us do not get enough. Lack of sleep affects our physical and mental health tremendously. It also affects metabolism, mood, concentration, memory, motor skills, stress hormones and even the immune system and cardiovascular health. Sleep allows the body to heal, repair and rejuvenate.</string>
+    <string name="stress_title">5. Do not take stress</string>
+    <string name="stress_body">Stress can cause a myriad of problems, from heart trouble to digestive problems. This should not come as a surprise. What many people do not know is what to do about it, how to manage their stress. Exercise, meditation, doing what you love, appropriate boundaries, spirituality, being in nature, and enjoyable hobbies all help alleviate the harmful effects of stress on the body. Don\'t overwork. Take breaks (vacations, mini-vacations, days off) and surround yourself with people who support you.</string>
+    <string name="feedback_title">It\'s feedback time</string>
+    <string name="rating">Rating</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_comment">Comment</string>
+
+</resources>
